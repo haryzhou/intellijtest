@@ -14,7 +14,7 @@ public class IFriendImpl implements IFriend {
     }
 
     @Override
-    public void listen() {
+    public void listen(String name) {
         StringBuffer kernel = new StringBuffer();
 
         return;
@@ -23,6 +23,13 @@ public class IFriendImpl implements IFriend {
 
         kernel.append(1);
         kernel.append("hello");
+
+        for (HelloWorld.HelloWorld helloWorld : ArrayList< HelloWorld.HelloWorld>) {
+        }
+
+        kernel.append("adfasfasdfa")
+                ;
+
 
 
     }

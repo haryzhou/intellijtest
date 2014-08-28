@@ -4,9 +4,13 @@ import java.util.Random;
 import java.util.TimeZone;
 
 /**
- * Created by hary on 14-8-27.
+ * Created by hary on 14-8-28.
  */
 public class HelloWorld {
+    /**
+     * Created by hary on 14-8-27.
+     */
+    String[] array1, array2;
     String[] array1, array2;
 
     public String getMessage() {
@@ -25,7 +29,7 @@ public class HelloWorld {
         }
 
 
-    }    String[] array1, array2;
+    }
 
 
 }

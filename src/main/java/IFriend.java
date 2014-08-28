@@ -6,5 +6,5 @@ public interface IFriend {
 
     void sayGoodbye();
 
-    void listen();
+    void listen(String name);
 }
